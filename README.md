@@ -1,7 +1,8 @@
-Getting introduced to the new framework on the Javascript Scene: Stimulus
 # <img src="https://raw.githubusercontent.com/stimulusjs/stimulus/master/assets/logo.svg?sanitize=true" width="24" height="24" alt="Stimulus"> Stimulus
 
-Exploring [Stimulus](https://github.com/stimulusjs/stimulus) following along with [The Stimulus Handbook](https://github.com/stimulusjs/stimulus/blob/master/handbook/README.md) for a quick introduction.
+Exploring [Stimulus](https://github.com/stimulusjs/stimulus) following along with [The Stimulus Handbook](https://github.com/stimulusjs/stimulus/blob/master/handbook/README.md) for a quick introduction to the new framework on the Javascript Scene.
+
+Added new example: a counter with async value update and a conditional increment.
 
 ---
 
