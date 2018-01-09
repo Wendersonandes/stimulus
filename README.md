@@ -13,7 +13,7 @@ You can remix this example on [Glitch](https://glitch.com/edit/#!/remix/stimulus
 Or, if you'd prefer to work from the comfort of your own text editor, you'll need to clone and set up `stimulus-starter`:
 
 ```
-$ git clone https://github.com/Wendersonandes/stimulus.git
+$ git clone https://github.com/wendersonandes/stimulus-starter.git
 $ cd stimulus-starter
 $ yarn install
 $ yarn start
